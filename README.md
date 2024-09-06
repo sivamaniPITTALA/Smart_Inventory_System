@@ -76,4 +76,4 @@ Fork the repo and submit a pull request for contributions.
 
 
 ## Contact
-For questions, email eshan.kesarwani@gmail.com
+For questions, email sivamanipittala@gmail.com
